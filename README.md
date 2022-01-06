@@ -6,3 +6,4 @@ It's a tower defense genre game but insted of controlling the towers that are de
 
 This project was made with in one month so it was really nice that it was chosen for display at SIGGRAPH 2020 Student Work Exhibit, which is celebrated in Los Angeles
 
+![game image](https://github.com/luisdaniel200926/Tower-Attack/blob/master/CapturaTowerAttack.PNG)
